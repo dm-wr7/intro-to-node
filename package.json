@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dm-wr7/intro-to-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dm-wr7/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/dm-wr7/intro-to-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
